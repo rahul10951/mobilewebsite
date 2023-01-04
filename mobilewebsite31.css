@@ -1,0 +1,33 @@
+.bgimg31 {
+	background-image:url('https://res.cloudinary.com/dn3cwuv7x/image/upload/v1672677846/rectangle-frame-gray-background_53876-97537_tmssob.webp') ;
+	background-size: cover;
+	height: 300vh;
+}
+.info1 {
+	color: ghostwhite;
+	font-family:'Roboto' ;
+	font-size: 50px;
+	font-weight: bolder;
+	padding: 20px;
+}
+.cardlayout1 {
+	background-color: ghostwhite;
+	border-bottom-left-radius: 12px;
+	border-bottom-right-radius:12px ;
+	margin: 20px;
+}
+.cardcorn {
+	padding: 20px;
+}
+.headsecond1 {
+	color: #a83632;
+	font-family:'Roboto'  ;
+	font-size: 30px;
+	font-weight: bolder;
+}
+.paraline3 {
+	color: #3432a8;
+	font-weight: bolder;
+	font-size: 20px;
+	font-family: 'Roboto';
+}

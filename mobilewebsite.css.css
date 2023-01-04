@@ -1,0 +1,21 @@
+.first {
+	background-image:url('https://res.cloudinary.com/dn3cwuv7x/image/upload/v1672224365/mbgmi_olsgos.webp') ;
+	background-size:cover ;
+	height: 100vh;
+}
+.rahul {
+	background-color: ghostwhite;
+	height:130px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	padding: 20px;
+}
+.heading {
+	color: darkorange;
+	font-family:'Roboto' ;
+	font-weight:bold ;
+}
+.para {
+	font-family: 'Roboto';
+	color: darkgoldenrod;
+}

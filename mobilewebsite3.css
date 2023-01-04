@@ -1,0 +1,32 @@
+.bgimg3 {
+	background-image: url('https://img.freepik.com/free-photo/rich-colors-gradation_23-2147734142.jpg?size=338&ext=jpg&ga=GA1.1.8404361.1671791226&semt=sph');
+	background-size: cover;
+	height: 250vh;
+}
+.info {
+	font-family: 'Roboto';
+	font-size: 50px;
+	font-weight: bolder;
+	padding: 15px;
+}
+.cardlayout {
+	background-color: ghostwhite;
+	border-bottom-left-radius: 12px;
+	border-bottom-right-radius:12px ;
+	margin: 100px;
+	margin-top: 15px;
+}
+.cardcon {
+	padding: 20px;
+}
+.headsecond {
+	color: blueviolet;
+	font-family:'Roboto' ;
+	font-size: 30px;
+	font-weight: bold;
+}
+.paraline2 {
+	color: #fc03f0;
+	font-family:'Roboto'  ;
+	font-size: 20px;
+}
